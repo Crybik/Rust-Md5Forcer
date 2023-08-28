@@ -1,0 +1,7 @@
+1. Specify the type for each variable, for fast building.
+2. More error handling
+3. Nice formatting
+4. Adding more characters for a DEFAULT_CHARSET set which is  `"!@#$%^&*()}{|'[]\?<>.,=-`"`
+5. Handling the main argument to allow passing the hash as one.
+6. Increase the memory resources for better performance by specifying the variable type to smaller types
+7. Updating README file.
